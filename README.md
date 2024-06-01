@@ -7,6 +7,7 @@
 Experienced senior full-stack developer with a passion for creating robust, scalable web applications. Over 10 years of hands-on experience in designing, developing, and deploying end-to-end solutions. Proficient in JavaScript, React, Node.js, and SQL databases. Adept at collaborating with cross-functional teams to deliver high-quality software products.  
 </p>
 <br/>  
+<br/>
 
 
 ## Programming Languages 
