@@ -1,6 +1,6 @@
 # <div align="left">Senior Full Stack & AI Developer</div>  
   
-<img align="right" style="margin-left: 30px" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="250" />
+<img align="right" style="margin-left: 30px" alt="GIF" src="photo.jpg" width="250" />
 <br/>
 <br/>
 <p>
