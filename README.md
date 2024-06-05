@@ -1,6 +1,6 @@
 # <div align="left">Senior Full Stack & AI Developer</div>
 
-<img align="right" style="margin-left: 30px;" alt="GIF" src="photo.jpg" width="250" />
+<!-- <img align="right" style="margin-left: 30px;" alt="GIF" src="photo.jpg" width="250" /> -->
 <br/>
 <br/>
 <p>
