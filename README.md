@@ -11,9 +11,6 @@
   <p>
     My passion lies in bridging the gap between traditional software development and the exciting world of blockchain. I’ve collaborated with cross-functional teams, including designers, researchers, and data scientists, to deliver innovative and impactful solutions. Whether it’s optimizing smart contracts or building robust user interfaces, I thrive on creating seamless experiences that leverage the power of blockchain technology.
   </p>
-  <p>
-    If you’re looking for someone who combines technical prowess with a deep understanding of blockchain ecosystems, I’m your go-to developer. Let’s build the future together!
-  </p>
 </div>
 
 <br  />
