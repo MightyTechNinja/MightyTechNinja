@@ -2,14 +2,23 @@
 
 ###
 
+<img align="right" height="200" src="photo.jpg" />
+
 <div align="left">
   <p>
-    As a passionate full-stack developer, I thrive on creating seamless user experiences by combining my expertise in both front-end and back-end technologies. With a solid foundation in languages like JavaScript, Python, and SQL, I’ve built robust web applications, optimized databases, and collaborated with cross-functional teams. My commitment to continuous learning drives me to stay up-to-date with industry trends, ensuring I deliver innovative solutions that exceed expectations.
+    As a seasoned professional, I’ve spent the last 8 years honing my skills in both full-stack development and blockchain technology. My journey began with hands-on experience in systems development, emphasizing both front-end and back-end expertise. Over time, I’ve delved deep into the intricacies of blockchain, working on decentralized applications, smart contracts, and other blockchain-related projects.
   <p>
   <p>
-    As a resourceful Blockchain Developer with 8 years of experience in software engineering, I’ve co-founded ConanSwap, a decentralized exchange (DEX) with 20,000 active supporters. My mastery extends to languages like JavaScript, Golang, and Python, and I possess extensive knowledge in smart contracts, consensus algorithms, and data structures. I’m on a mission to build the financial system of tomorrow. Let’s connect and revolutionize the world of blockchain together!
+    My passion lies in bridging the gap between traditional software development and the exciting world of blockchain. I’ve collaborated with cross-functional teams, including designers, researchers, and data scientists, to deliver innovative and impactful solutions. Whether it’s optimizing smart contracts or building robust user interfaces, I thrive on creating seamless experiences that leverage the power of blockchain technology.
+  </p>
+  <p>
+    If you’re looking for someone who combines technical prowess with a deep understanding of blockchain ecosystems, I’m your go-to developer. Let’s build the future together!
   </p>
 </div>
+
+###
+
+<br clear="both" />
 
 ###
 
