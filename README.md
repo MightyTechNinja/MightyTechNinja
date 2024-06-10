@@ -2,9 +2,10 @@
 
 ###
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" />
+<img align="right" width="320" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" />
 
-<div align="left" style="margin-right: 20px">
+<div align="left">
+  <br />
   <p>
     As a seasoned professional, I’ve spent the last 8 years honing my skills in both full-stack development and blockchain technology. My journey began with hands-on experience in systems development, emphasizing both front-end and back-end expertise. Over time, I’ve delved deep into the intricacies of blockchain, working on decentralized applications, smart contracts, and other blockchain-related projects.
   <p>
