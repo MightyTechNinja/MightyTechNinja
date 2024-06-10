@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="photo.jpg" />
+<img align="right" height="300" src="photo.jpg" />
 
 <div align="left">
   <p>
@@ -15,8 +15,6 @@
     If you’re looking for someone who combines technical prowess with a deep understanding of blockchain ecosystems, I’m your go-to developer. Let’s build the future together!
   </p>
 </div>
-
-###
 
 <br clear="both" />
 
@@ -107,6 +105,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
 </div>
+
+<br clear="both" />
 
 ###
 
