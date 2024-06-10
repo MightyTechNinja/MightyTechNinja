@@ -1,8 +1,8 @@
-<h2 align="left">Senior Full Stack & Blockchain Developer</h2>
+<h1 align="left">Senior Full Stack & Blockchain Developer</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <p>
     As a passionate full-stack developer, I thrive on creating seamless user experiences by combining my expertise in both front-end and back-end technologies. With a solid foundation in languages like JavaScript, Python, and SQL, I’ve built robust web applications, optimized databases, and collaborated with cross-functional teams. My commitment to continuous learning drives me to stay up-to-date with industry trends, ensuring I deliver innovative solutions that exceed expectations.
   <p>
@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">Mighty Skills</h3>
+<h2 align="left">Mighty Skills</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -101,7 +101,7 @@
 
 ###
 
-<h3 align="left">Achivements</h3>
+<h2 align="left">Achivements</h2>
 
 ###
 
