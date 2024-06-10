@@ -2,11 +2,7 @@
 
 ###
 
-<img align="right" height="500" src="photo.jpg"  />
-
-###
-
-<div align="left">
+<div align="center">
   <p>
     As a passionate full-stack developer, I thrive on creating seamless user experiences by combining my expertise in both front-end and back-end technologies. With a solid foundation in languages like JavaScript, Python, and SQL, I’ve built robust web applications, optimized databases, and collaborated with cross-functional teams. My commitment to continuous learning drives me to stay up-to-date with industry trends, ensuring I deliver innovative solutions that exceed expectations.
   <p>
@@ -17,7 +13,7 @@
 
 ###
 
-<br clear="both">
+<h3 align="left">Mighty Skills</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -102,6 +98,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
 </div>
+
+###
+
+<h3 align="left">Achivements</h3>
 
 ###
 
