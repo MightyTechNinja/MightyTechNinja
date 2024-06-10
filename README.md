@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="300" src="photo.jpg" />
+<img align="right" height="300" src="https://miro.medium.com/v2/resize:fit:1400/1*0hcduJ-1b1OU7gPDb-Uz0A.jpeg" />
 
 <div align="left">
   <p>
@@ -16,7 +16,7 @@
   </p>
 </div>
 
-<br clear="both" />
+<br  />
 
 ###
 
