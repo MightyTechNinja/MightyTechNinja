@@ -7,13 +7,7 @@
 <div align="left">
   <br />
   <p>
-    As a seasoned professional, I’ve spent the last 8 years honing my skills in both full-stack development and blockchain technology. My journey began with hands-on experience in systems development, emphasizing both front-end and back-end expertise. Over time, I’ve delved deep into the intricacies of blockchain, working on decentralized applications, smart contracts, and other blockchain-related projects.
-  <p>
-  <p>
-    My passion lies in bridging the gap between traditional software development and the exciting world of blockchain. I’ve collaborated with cross-functional teams, including designers, researchers, and data scientists, to deliver innovative and impactful solutions. Whether it’s optimizing smart contracts or building robust user interfaces, I thrive on creating seamless experiences that leverage the power of blockchain technology.
-  </p>
-  <p>
-    I specialize in creating, implementing, and optimizing artificial intelligence algorithms and models. I work on tasks such as machine learning, natural language processing, and computer vision to build intelligent systems and applications, often using frameworks like TensorFlow or PyTorch. My role also involves data preprocessing, model training, and performance evaluation to ensure effective and efficient AI solutions.
+    I have 8 years of experience in full-stack development and blockchain technology, starting with systems development and gaining expertise in front-end and back-end. My focus shifted to blockchain, where I specialized in decentralized applications and smart contracts. I enjoy integrating traditional software with blockchain, collaborating across teams to deliver impactful solutions. Additionally, I specialize in AI algorithms for machine learning, natural language processing, and computer vision, using frameworks like TensorFlow and PyTorch for building intelligent applications.
   </p>
 </div>
 
