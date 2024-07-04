@@ -12,6 +12,9 @@
   <p>
     My passion lies in bridging the gap between traditional software development and the exciting world of blockchain. I’ve collaborated with cross-functional teams, including designers, researchers, and data scientists, to deliver innovative and impactful solutions. Whether it’s optimizing smart contracts or building robust user interfaces, I thrive on creating seamless experiences that leverage the power of blockchain technology.
   </p>
+  <p>
+    As an AI developer, I specialize in creating, implementing, and optimizing artificial intelligence algorithms and models. I work on tasks such as machine learning, natural language processing, and computer vision to build intelligent systems and applications, often using frameworks like TensorFlow or PyTorch. My role also involves data preprocessing, model training, and performance evaluation to ensure effective and efficient AI solutions.
+  </p>
 </div>
 
 <br  />
