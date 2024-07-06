@@ -117,10 +117,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MightyTechNinja&count_private=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MightyTechNinja&layout=compact" />
-  <img height="120" margin="20" src="https://github-profile-trophy.vercel.app/?username=MightyTechNinja&row=1&column=7" />
-</div>
+
 
 ###
