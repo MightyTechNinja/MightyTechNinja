@@ -118,8 +118,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MightyTechNinja&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MightyTechNinja&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MightyTechNinja&count_private=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MightyTechNinja&layout=compact" />
   <img src="https://github-profile-trophy.vercel.app/?username=MightyTechNinja&row=1&column=7" />
 </div>
 
